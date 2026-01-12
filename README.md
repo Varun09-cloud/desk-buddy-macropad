@@ -1,19 +1,15 @@
-# Desk Buddy Macropad
 
-A USB desk companion that displays a pixel-art pet on a small OLED screen.
-The pet changes animations depending on the selected mode such as music,
-gaming, or productivity.
+#Desk Buddy Macropad
+A USB desk companion that provides quick application controls and volume adjustment using physical switches and a rotary encoder.
+Planned Features
+Three momentary switches for launching assigned applications.
+Rotary encoder for volume control (and push-button for mute/mode switching).
+Mode-switch functionality (to change the application assignments of the three buttons).
+Custom PCB and 3D-printed case.
 
-## Planned Features
-- Pixel-art desk buddy with multiple modes
-- Rotary encoder for volume control
-- Mode-switch button
-- OLED display (0.91")
-- Custom PCB and 3D-printed case
-
-## Current Status
-- Project repository created
-- Concept and modes finalized
-- Hardware schematic design in progress
+#Current Status
+Project repository created.
+Concept and input functionalities finalized.
+Hardware schematic design in progress.
 
 Built for Hack Club Hackpad.
