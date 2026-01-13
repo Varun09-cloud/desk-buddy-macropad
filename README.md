@@ -49,7 +49,7 @@ The case will be designed in **Fusion 360** and **3D printed**.
 - Designed to securely hold the PCB  
 - Fastened using **M3 screws and heat-set inserts**
 
-![Desktop Buddy Macropad CAD](images/CAD.png)
+---
 
 ## 🖥️ PCB Design
 
@@ -60,9 +60,7 @@ The case will be designed in **Fusion 360** and **3D printed**.
   - XIAO RP2040 footprint  
 - PCB size kept under **100 mm × 100 mm** for cost efficiency
 
-![Desktop Buddy Macropad PCB](images/images_pcb.png)
-
-![Desktop Buddy Macropad Schematic](images/images_schematic.png)
+---
 
 ## 💾 Firmware Overview
 
