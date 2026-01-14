@@ -62,18 +62,37 @@ The case will be designed in **Fusion 360** and **3D printed**.
 
 ---
 
-## 💾 Firmware Overview
+## 💾 Firmware
 
-Desktop Buddy Macropad uses **QMK firmware**.
+Desktop Buddy Macropad uses **KMK firmware** running on **CircuitPython** for the **Seeed XIAO RP2040**.
 
-Planned behavior:
-- **Key 1:** Open Application A  
-- **Key 2:** Open Application B  
-- **Key 3:** Open Application C  
-- **Encoder rotate:** Volume up / down  
-- **Encoder press:** Mute  
+KMK was chosen because it:
+- Runs directly in **Python**
+- Is easy to modify and understand
+- Works well with rotary encoders and small macropads
+- Does not require a complex build environment like QMK
 
-Key mappings can be updated later through firmware changes.
+The firmware source code is located in the `/Firmware` folder.
+
+---
+
+### ⚙️ Firmware Features
+
+- **3 mechanical keys**
+  - Each key is mapped to a macro or application shortcut
+- **Rotary encoder (EC11)**
+  - Rotate: Volume up / Volume down
+  - Press: Mute
+- Easily customizable by editing `main.py`
+
+---
+
+### 📂 Firmware Structure
+
+```text
+/Firmware
+ ├── main.py        # KMK firmware entry point
+ └── lib/           # KMK + CircuitPython libraries
 
 ---
 
