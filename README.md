@@ -63,7 +63,7 @@ The case will be designed in **Fusion 360** and **3D printed**.
   - XIAO RP2040 footprint  
 - PCB size kept under **100 mm × 100 mm** for cost efficiency
 - 
-![Desktop Buddy PCB](pictures/pcb.png)
+![Desktop Buddy PCB](pictures/images_pcb.png)
 ---
 
 ## 💾 Firmware
