@@ -102,10 +102,9 @@ The firmware source code is located in the `/Firmware` folder.
 |--------|------|
 | 3× | MX Mechanical Switches |
 | 3× | DSA Keycaps |
-| 3× | 1N4148 DO-35 Diodes |
+| 2× | 1N4148 DO-35 Diodes |
 | 1× | EC11 Rotary Encoder |
 | 1× | Seeed XIAO RP2040 |
-| Optional | WS2812B RGB LEDs |
 | — | 3D printed case |
 | — | M3 screws + heat-set inserts |
 
