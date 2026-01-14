@@ -48,10 +48,13 @@ The case will be designed in **Fusion 360** and **3D printed**.
 - Compact footprint for desk use  
 - Designed to securely hold the PCB  
 - Fastened using **M3 screws and heat-set inserts**
+  ![Desktop Buddy Case](pictures/CAD.png)
 
 ---
 
 ## 🖥️ PCB Design
+
+![Desktop Buddy Schematic](pictures/images_schematic.png)
 
 - Designed in **KiCad**
 - Custom PCB including:
@@ -59,7 +62,8 @@ The case will be designed in **Fusion 360** and **3D printed**.
   - 1 rotary encoder footprint  
   - XIAO RP2040 footprint  
 - PCB size kept under **100 mm × 100 mm** for cost efficiency
-
+- 
+![Desktop Buddy PCB](pictures/pcb.png)
 ---
 
 ## 💾 Firmware
